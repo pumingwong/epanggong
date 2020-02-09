@@ -13,7 +13,7 @@
 2020年年出全国爆发新型肺炎疫情，湖北及武汉红十字因一系列工作问题成为舆论焦点。
 下图为湖北红十字会针对之前的错误发布的一份声明，但其中仍出现了错误。（引自湖北红十字会官网）
 
-http://minhangquan.com/honghuishengming.png
+![湖北红会声明](http://minhangquan.com/honghuishengming.png)
 
 以下引用人民网的评论文章
 >刚刚，湖北省红十字会回应了，称工作失误导致信息不准确，吊诡的是，回应稿的日期却又“不准确”地写成了2019年。
@@ -22,9 +22,9 @@ http://minhangquan.com/honghuishengming.png
 
 与之对应的是，因医疗资源不足，一些医生开始自制防护服。
 
-http://minhangquan.com/wuzijinzhang.jpg
+![官媒报道的新闻](http://minhangquan.com/wuzijinzhang.jpg)
 
-http://minhangquan.com/yishengzizhi.jpg
+![因物资不足，医生自知防护用具](http://minhangquan.com/yishengzizhi.jpg)
 
-http://minhangquan.com/wuzigou.jpg
+![1月23日，当地官员回应物质是否充足](http://minhangquan.com/wuzigou.jpg)
 
